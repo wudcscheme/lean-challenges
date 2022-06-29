@@ -15,7 +15,7 @@ to solve concrete problems. If there is such a gap in mathlib, we hope that this
 
 ## Contributing
 We encourage contributions from beginners and experienced Lean programmers alike. The `src` directory contains many exercises that are stated
-but proved: the fastest way to contribute is open a branch, pick a theorem, and replace the `sorry` with a proof. Once your proof is complete, 
+but not proved: the fastest way to contribute is open a branch, pick a theorem, and replace the `sorry` with a proof. Once your proof is complete, 
 open a pull request and we will review it promptly. 
 
 A good starting point is to structure your proofs around those in these solutions manuals: 
