@@ -18,6 +18,11 @@ We encourage contributions from beginners and experienced Lean programmers alike
 but proved: the fastest way to contribute is open a branch, pick a theorem, and replace the `sorry` with a proof. Once your proof is complete, 
 open a pull request and we will review it promptly. 
 
+A good starting point is to structure your proofs around those in these solutions manuals: 
+- [Dummit and Foote, Abstract Algebra](https://linearalgebras.com/solution-to-abstract-algebra.html)
+- [Munkres, Topology](https://dbfin.com/topology/munkres/)
+- [Rudin, Analysis](https://minds.wisconsin.edu/handle/1793/67009) 
+
 ## Leaderboard
 Contributors are listed alphabetically. 
 |Contributor | Number of Proofs|
